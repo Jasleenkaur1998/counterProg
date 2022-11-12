@@ -1,0 +1,21 @@
+
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#outputArea {
+    padding: 50px;
+}
+
+button {
+    background-color: red;
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    color: white;
+}
